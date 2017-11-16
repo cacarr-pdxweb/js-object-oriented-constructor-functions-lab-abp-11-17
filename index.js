@@ -5,3 +5,5 @@ function Scooter('year', 'color', 'model') {
 }
 
 let Scooter = new Scooter('year', 'color', 'model')
+
+
