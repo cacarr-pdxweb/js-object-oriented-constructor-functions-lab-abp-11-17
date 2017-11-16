@@ -4,4 +4,4 @@ function Scooter('year', 'color', 'model') {
   this.model = model
 }
 
-
+let Scooter = new 
